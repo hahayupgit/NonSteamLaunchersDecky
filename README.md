@@ -3,11 +3,11 @@
 </p>
 
 <h1 align="center">
-NonSteamLaunchers 🚀
+NonSteamLaunchers - Decky Plugin 🚀
 </h1>
 
 This script installs the latest GE-Proton, installs NonSteamLaunchers under one unique Proton prefix folder in your compatdata folder path called "NonSteamLaunchers" and adds them to your Steam Library. It will also add the games automatically in real time.
-So you can use them on Desktop or in Game Mode.
+So you can use them on Desktop or in Game Mode. Now available directly in the Decky Loader!
 
 <h1 align="center">
 Features  ✅
@@ -71,14 +71,18 @@ How to Install 🔧
 </h1>
 
 <p align="center">
-  <a name="download button" href="https://github.com/cchrkk/NSLOSD-DL/releases/download/DlLinkFix/NonSteamLaunchers.desktop"><img src="https://user-images.githubusercontent.com/98482469/242361563-33f31d3d-9a69-4fca-a928-207a5d17a98f.png"  alt="Download NonSteamLaunchers" width="350px" style="padding-top: 15px;"></a>
+  <a name="download button" href="https://github.com/SteamDeckHomebrew/decky-loader/releases/"><img src="https://user-images.githubusercontent.com/98482469/242361563-33f31d3d-9a69-4fca-a928-207a5d17a98f.png"  alt="Download DeckyLoader" width="350px" style="padding-top: 15px;"></a>
 </p>
 <!--- Thanks https://github.com/Heus-Sueh -->
+
+* Download and install DeckyLoader
+* Enter Game mode, go to the Decky Loader Settings, and change your store to `Testing`.
+* Search for `NonSteamLaunchers`
 
 * Go to desktop mode, right click the download button above and save the .desktop file to your Steam Deck desktop. 
 * Go to your desktop, click the NonSteamLaunchers icon, it will download and run the latest NonSteamLaunchers.sh from this repository and run it.
 * You will simply have to choose which launcher to install and let the script handle the rest. 💻 No files are left in your "Downloads" they are deleted after installation.
-* After running the script, launch Steam on your Steam Deck. You'll find the new launchers in your library under the non-steam tab. Click a launcher to see your installed games from that store, and launch them directly from Steam! If you have downloaded a game inside of your launcher, restart your deck or steam adn the NSLGameScanner.service should add it to your library. Even in gamemode 🥳
+* After installing the plugin, you'll find the new launchers in your library under the non-steam tab. Click a launcher to see your installed games from that store, and launch them directly from Steam! If you have downloaded a game inside of your launcher, restart your Deck or quit and reopen Steam and the NSLGameScanner.service should add it to your library, even in gamemode! 🥳
 
 <!--- TODO: handful of broken icons (cf. 🡺🡺🡺 ); probably should remove or replace them with more common font to handle unicode-->
 
@@ -95,12 +99,6 @@ How to Uninstall 🗑
 
 + Just run the script, and hit "Uninstall". Alternatively, if you want to totally wipe evrything from NonSteamLaunchers click "Start Fresh".
 + That's it.
-
-<h1 align="center">
-Currently Working On 👷‍♂️
-</h1>
-
-* Decky Loader Plugin is available [here](https://github.com/moraroy/NonSteamLaunchersDecky)
 
 <h1 align="center">
 Contributing 🤝
